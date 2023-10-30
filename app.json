@@ -26,40 +26,7 @@
         "value": ""
         },
         
-        "GROUP_1_LINK": {
-        "description": "Customizeble group 1 link.",
-        "required": true, 
-        "value": "https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"
-        },
         
-        "GROUP_2_LINK": {
-        "description": "Customizeble group 2 link.",
-        "required": true,
-        "value": "https://t.me/telegrm_music9"
-        },
-        
-        "GROUP_1_NAME": {
-        "description": "Customizeble group 1 name.", "required": true,
-        "value": "🎄 Alpha-X-Community"
-        },
-        
-        "GROUP_2_NAME": {
-        "description": "Customizeble group 2 name.",
-        "required": true, 
-        "value": "✨️ Telegram-Group"
-        },
-        
-        "START_PIC": {
-        "description": "Customizeble start message pic.",
-        "required": true, 
-        "value": "https://telegra.ph/file/1f7e663e87e622b62260b.jpg"
-        },
-        
-        "HELP_PIC": {
-        "description": "Customizeble help message pic.",
-        "required": true, 
-        "value": "https://telegra.ph/file/0be9c898b243dd200bfd0.jpg"
-        }
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
